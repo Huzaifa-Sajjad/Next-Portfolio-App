@@ -8,8 +8,8 @@ export default () => {
           <Link href="/">
             <a>Home</a>
           </Link>
-          <Link href="/about">
-            <a>About</a>
+          <Link href="/repo">
+            <a>Repositories</a>
           </Link>
           <Link href="/hire">
             <a>Hire</a>

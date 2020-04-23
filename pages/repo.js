@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Layout from "../components/Layout";
 
-export default function About() {
+export default function Repo() {
   return (
     <>
       <Layout>
@@ -9,7 +9,7 @@ export default function About() {
           <title>About | Huzaifa Sajjad</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
-        <h1>Hello, My Name is Huzaifa!</h1>
+        <h3>Repositories</h3>
       </Layout>
     </>
   );
